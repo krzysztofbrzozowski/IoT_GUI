@@ -1,0 +1,10 @@
+@media only screen and (max-width: 761px) {
+  .main-row {
+    margin-top: 0.5rem;
+  }
+}
+@media only screen and (min-width: 763px) {
+  .main-row {
+    margin-top: calc(50vh - 13rem);
+  }
+}
